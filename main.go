@@ -1,3 +1,3 @@
-package main
+package succotash
 
 import _ "github.com/buglloc/certifi"
